@@ -1,32 +1,23 @@
 [
   {
-    "foodName": "Sup Konro BCA BalikPapan",
-    "foodImage": "https://media-cdn.tripadvisor.com/media/photo-s/0b/71/48/49/soup-konro-and-soup-saudara.jpg",
-    "foodDescription": "Sup Konro BCA Merupakan Salah Satu Makanan Yang di Cap 'Gak Ada Obat' Yang Artinya Sangat Enak",
-    "coordinat": "-1.276084, 116.8415152"
+    "albumId": 1,
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/92c952",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   },
   {
-    "foodName": "Sup Konro BCA BalikPapan",
-    "foodImage": "https://media-cdn.tripadvisor.com/media/photo-s/0b/71/48/49/soup-konro-and-soup-saudara.jpg",
-    "foodDescription": "Sup Konro BCA Merupakan Salah Satu Makanan Yang di Cap 'Gak Ada Obat' Yang Artinya Sangat Enak",
-    "coordinat": "-1.276084, 116.8415152"
+    "albumId": 1,
+    "id": 2,
+    "title": "reprehenderit est deserunt velit ipsam",
+    "url": "https://via.placeholder.com/600/771796",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
   },
   {
-    "foodName": "Sup Konro BCA BalikPapan",
-    "foodImage": "https://media-cdn.tripadvisor.com/media/photo-s/0b/71/48/49/soup-konro-and-soup-saudara.jpg",
-    "foodDescription": "Sup Konro BCA Merupakan Salah Satu Makanan Yang di Cap 'Gak Ada Obat' Yang Artinya Sangat Enak",
-    "coordinat": "-1.276084, 116.8415152"
-  },
-  {
-    "foodName": "Sup Konro BCA BalikPapan",
-    "foodImage": "https://media-cdn.tripadvisor.com/media/photo-s/0b/71/48/49/soup-konro-and-soup-saudara.jpg",
-    "foodDescription": "Sup Konro BCA Merupakan Salah Satu Makanan Yang di Cap 'Gak Ada Obat' Yang Artinya Sangat Enak",
-    "coordinat": "-1.276084, 116.8415152"
-  },
-  {
-    "foodName": "Sup Konro BCA BalikPapan",
-    "foodImage": "https://media-cdn.tripadvisor.com/media/photo-s/0b/71/48/49/soup-konro-and-soup-saudara.jpg",
-    "foodDescription": "Sup Konro BCA Merupakan Salah Satu Makanan Yang di Cap 'Gak Ada Obat' Yang Artinya Sangat Enak",
-    "coordinat": "-1.276084, 116.8415152"
+    "albumId": 1,
+    "id": 3,
+    "title": "officia porro iure quia iusto qui ipsa ut modi",
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
   }
  ]
